@@ -36,7 +36,7 @@ body {
 @media (max-width: 767px) {
   .app {
     grid-template-columns: 1fr;
-    row-gap: 4rem;
+    row-gap: 2rem;
   }
 }
 
